@@ -33,4 +33,4 @@ For the demo, we'll use [daytrader7](https://github.com/WASdev/sample.daytrader7
     cp demo/sample-application/sample.daytrader7-1.4/daytrader-ee7/target/daytrader-ee7-1.0-SNAPSHOT.ear demo/code2graph-samples/doop-input
 
 # Application Refactoring with Data Gravity Insights
-{% include youtubePlayer.html id=I2FQvYHb4hs %}
+{% includes youtubePlayer.html id=I2FQvYHb4hs %}
